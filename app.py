@@ -1,2 +1,5 @@
-print('Hello world')
+import lib
+
+print(lib.f('Hello world'))
+
 
