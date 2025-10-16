@@ -1,4 +1,4 @@
 def f(x):
-    return x * 2 + ';'
+    return str(x) * 2 + ';'
 
 
